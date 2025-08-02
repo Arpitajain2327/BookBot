@@ -1,0 +1,63 @@
+📚 BookBot – AI-Powered Book Recommendation Chatbot
+BookBot is a conversational AI chatbot built using IBM Watson Assistant that helps users get personalized book recommendations based on their genre preference, mood, or favorite author.
+
+This project was created as part of a summer training program and aims to showcase how artificial intelligence can enhance the user experience in the world of reading and recommendations.
+
+🧠 Features
+✅ Conversational Interface: Users can interact with the bot naturally, just like chatting with a friend.
+
+🎯 Personalized Recommendations: Get book suggestions tailored to:
+
+Preferred genre (Fantasy, Mystery, Sci-Fi, etc.)
+
+Current mood (Happy, Sad, Motivated, etc.)
+
+Favorite authors
+
+🦁 Custom Chatbot Icon: A unique lion-themed icon makes the bot fun and friendly.
+
+💬 Web Integration: Embedded easily into a standalone HTML website using IBM’s Web Chat SDK.
+
+🛠️ Technologies Used
+IBM Watson Assistant – For creating intents, entities, dialog flow, and response logic
+
+HTML + CSS – For frontend structure and styling
+
+JavaScript – To embed Watson Chat widget
+
+Git & GitHub – For version control and project hosting
+
+🌐 Live Demo
+👉 Coming soon via GitHub Pages or hosted HTML preview (optional)
+(If you'd like, I can help you publish it online so others can try it out.)
+
+🚀 How It Works
+The user opens the chatbot-enabled website.
+
+BookBot starts the conversation and asks the user what they're looking for (e.g., a book for a certain mood).
+
+Based on the responses, it uses trained intents and entities to recommend a relevant book.
+
+The bot can loop back and provide more suggestions or end the conversation politely.
+
+📁 Project Structure
+css
+Copy
+Edit
+BookBot/
+├── index.html         → Main HTML file with embedded Watson Assistant
+├── images/            → (Optional) Icons or background assets
+└── README.md          → Project overview and instructions
+🎓 Learning Outcomes
+Developed hands-on skills in conversational AI.
+
+Explored the use of no-code AI platforms (IBM Watson Assistant).
+
+Learned how to embed AI bots into websites and push projects to GitHub.
+
+Understood the structure of intents, entities, and dialog design.
+
+🙋‍♀️ Author
+Arpita Jain
+B.Tech CSE | 2nd Year | GDSC Volunteer | Passionate about AI & Innovation
+📍 Prayagraj, India
